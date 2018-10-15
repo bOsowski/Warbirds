@@ -1,0 +1,14 @@
+{
+	// probably better to construct islands using a random formula (ie proceduraly generated)  but this
+	// is here to show how it could be done manually.
+	islands: [
+		{	seed: 55697564}
+	],
+	enemies: [
+		{	name:enemy_plane_yellow,x: 	 3,		y:	 12,	rotation: 180,state:	0},
+		{	name:enemy_plane_yellow,x: 	 0,		y:	 16,	rotation: 180,state:	0},
+		{	name:enemy_plane_yellow,x: 	 -3,		y:	 20,	rotation: 180,state:	0},
+	],
+	name: 1,
+	length: 10,
+}
